@@ -12,7 +12,7 @@ Winziger Straße 2
 <dd>September 2021 - HEUTE</dd>
 <dt>Besuch des staatlichen Gymnasiums Dorfen</dt>
 <dd>September 2021 - HEUTE</dd>
-<dt>Besuch der Grundschule Velden bzw. Mossen/Vils</dt>
+<dt>Besuch der Grundschule Velden bzw. Moosen/Vils</dt>
 <dd>September 2012 - Juli 2016</dd>
 </dl>
 
@@ -43,7 +43,7 @@ Als SaaS Applikation zur Digitalisierung schulischer Projektorganisationsabläuf
 
 ## Wettbewerbe
 ### Bundeswettbewerb Informatik 2022
-Die erste Runde des diesjährigen [Bundeswettbewerbs für Informatik](https://bwinf.de/bundeswettbewerb/) bestritt ich zusammen mit meinen Freunden [Kevin Kretz](https://github.com/theKevinKretz) und [Daniel Meiborg](https://github.com/DanielMeiborg). Wir erreichten den 2. Preis und qualifizierten uns damit für die nächste Runde. Weitere Ergbnisse liegen noch nicht vor, da der Einsendeschluss für die 2. Runde am 25.4 war und damit noch keine Auswertung zuließ.
+Die erste Runde des diesjährigen [Bundeswettbewerbs für Informatik](https://bwinf.de/bundeswettbewerb/) bestritt ich zusammen mit meinen Freunden [Kevin Kretz](https://github.com/theKevinKretz) und [Daniel Meiborg](https://github.com/DanielMeiborg). Wir erreichten den 2. Preis und qualifizierten uns damit für die nächste Runde. Weitere Ergebnisse liegen noch nicht vor, da der Einsendeschluss für die 2. Runde am 25.4 war und damit noch keine Auswertung zuließ.
 
 ### Cyber Security Challenge Germany 2022 Qualifiers
 Dieses Jahr nehme ich zudem das erste Mal an den Qualifiers der [Cyber Security Challenge Germany 2022](https://cscg.live/) in der Junior Kategorie (14 - 21 Jahre) teil. Da diese noch nicht abgeschlossen sind, lässt sich nur das Zwischenergebnis des 30. Platzes aus 193 Teilnehmern (Stand 1. Mai) nennen.
