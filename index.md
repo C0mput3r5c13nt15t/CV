@@ -1,13 +1,11 @@
-# Paul Maier
-Beboren am 27. September 2005 in Erding
-
+## Kontakt
 Winziger Straße 2
 84181 Neufraunhofen
 (+49) 1733 780289
 pauljustus279@gmail.com
 
 ## Schullaufbahn
-### Besuch des staatlich anerkannten Privatinternats Birklehof
+### Besuch der Schule Birklehof e.V.
 September 2021 - HEUTE
 
 ### Besuch des staatlichen Gymnasiums Dorfen
