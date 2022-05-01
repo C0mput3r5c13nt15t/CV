@@ -6,15 +6,15 @@ Winziger Straße 2
 (+49) 1733 780289  
 [pauljustus279@gmail.com](mailto:pauljustus279@gmail.com)
 
-## Schullaufbahn
-### Besuch der Schule Birklehof e.V.
-September 2021 - HEUTE
-
-### Besuch des staatlichen Gymnasiums Dorfen
-September 2016 -  Juli 2021
-
-### Besuch der Grundschule Velden bzw. Mossen/Vils
-September 2012 - Juli 2016
+## Bildungsweg
+<dl>
+<dt>Besuch der Schule Birklehof e.V.</dt>
+<dd>September 2021 - HEUTE</dd>
+<dt>Besuch des staatlichen Gymnasiums Dorfen</dt>
+<dd>September 2021 - HEUTE</dd>
+<dt>Besuch der Grundschule Velden bzw. Mossen/Vils</dt>
+<dd>September 2012 - Juli 2016</dd>
+</dl>
 
 ## Kenntnisse und Kompetenzen
 - Webentwicklung
@@ -49,7 +49,7 @@ Die erste Runde des diesjährigen [Bundeswettbewerbs für Informatik](https://bw
 Dieses Jahr nehme ich zudem das erste Mal an den Qualifiers der [Cyber Security Challenge Germany 2022](https://cscg.live/) in der Junior Kategorie (14 - 21 Jahre) teil. Da diese noch nicht abgeschlossen sind, lässt sich nur das Zwischenergebnis des 30. Platzes aus 193 Teilnehmern (Stand 1. Mai) nennen.
 
 ### Hack me. If you can! und White Hats for Future
-2021 nahm ich am Wettbewerb [Hack me. If you can!](https://www.hs-augsburg.de/Informatik/HSA-innos/Institut/Hack-me-if-you-can.html) der Hochschule Ausgsburg teil und errecihte Deutschlandweit den 2. Platz. Dieses Jahr nahm ich am Folgewettbewerb [White Hats for Future](https://www.hs-augsburg.de/Informatik/HSA-innos/Institut/white-hats-for-future.html) teil und konnte trotz eines sehr geringen Zeitkontingents den 3. Platz bundesweit ergattern.
+2021 nahm ich am Wettbewerb [Hack me. If you can!](https://www.hs-augsburg.de/Informatik/HSA-innos/Institut/Hack-me-if-you-can.html) der Hochschule Ausgsburg teil und erreichte deutschlandweit den 2. Platz. Dieses Jahr nahm ich am Folgewettbewerb [White Hats for Future](https://www.hs-augsburg.de/Informatik/HSA-innos/Institut/white-hats-for-future.html) teil und konnte trotz eines sehr geringen Zeitkontingents den 3. Platz bundesweit ergattern.
 
 ### Astro Pi
 Ziel des [Astro Pi](https://astro-pi.org/) Wettbewerbs ist es ein Programm zu schreiben, welches auf eine Rasperry Pi an Bord der ISS laufen und dort Forschung betreiben kann. Mein Team und ich sendeten unser Projekt [DeepCream](https://www.deepcream.eu/home/) ein, in welchem wir mehrere KIs zur Analyse von Wolken programmierten. Leider scheitere unser Projekt an der 2. Runde aufgrund eines Fehlers, beim Testen von Seiten der ESA.
