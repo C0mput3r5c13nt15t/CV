@@ -4,7 +4,7 @@
 Winziger Straße 2  
 84181 Neufraunhofen  
 (+49) 1733 780289  
-pauljustus279@gmail.com  
+[pauljustus279@gmail.com](mailto:pauljustus279@gmail.com)
 
 ## Schullaufbahn
 ### Besuch der Schule Birklehof e.V.
