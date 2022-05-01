@@ -16,6 +16,7 @@ Winziger Straße 2
 <dd>September 2012 - Juli 2016</dd>
 </dl>
 
+
 ## Kenntnisse und Kompetenzen
 - Webentwicklung
     - Grundlagen (HTML, JS, CSS, PHP)
@@ -36,9 +37,13 @@ Winziger Straße 2
 - Umgang mit Linux
 - Cybersicherheit
 
+
 ## Projekte
 ### Diribitio
 Als SaaS Applikation zur Digitalisierung schulischer Projektorganisationsabläufe konzipiert, gewann ich bei Jugend forscht, 2021 in der Kategorie Arbeitswelt mit meinem Projekt [Diribitio](https://www.diribitio.digital/) den 2. Preis. Aktuell steht die Weiterentwicklung an, um die Performance und Zuverlässigkeit zu verbessern. Die neue Version wird derzeit auf einem Server gehostet (siehe [https://dev.diribitio.digital/#/login](https://dev.diribitio.digital/#/login)) und soll in wenigen Wochen eingesetzt werden.
+
+### Kunstgalerie
+Im Rahmen des Elternwochenendes sollte am Birklehof eine Kunstausstellung veranstaltet werden, welche angesichts der Corona-Situation vollständig online statt finden musste. In diesem Zusammenhang erstellte ich relativ kurzfristig zusammen mit meiner Kunstlehrerin die Seite [Kunst am Birklehof](https://birklehof.github.io/Kunst/). Die Webseite nutzt das Svelte-Framework, um trotz der großen Bilder eine akzeptable Performance zu erzielen, was alles in allem relativ gut gelang.
 
 
 ## Wettbewerbe
@@ -64,15 +69,18 @@ Im Herbst 2021 nahm ich am [MINTvernetzt](https://mint-vernetzt.de/) Hackathon (
 - Bundeswettbewerb Fremdsprachen 2021, 2. Runde: Sehr gutes Ergebnis
 - Verschiedenste CTFs, wie [picoCTF](https://picoctf.org/)
 
+
 ## Absolvierte Praktika
 - 2022, matrix Gruppe, Bereich der Webentwicklung für MINTvernetzt
 - 2021, Rohde & Schwarz, Fachinformatiker
 - 2021, DRÄXLMAIER Group, Technisches Produktdesign
 
+
 ## Soziales Engagement
 - Seit September 2021 Ausbildung zum Schulsanitäter
 - Bis August 2021 Tätigkeit als O-Wacht Helfer
 - Bis August 2021 Tätigkeit als Junior-Teacher
+
 
 ## Sprachen
 - Deutsch - Muttersprache
