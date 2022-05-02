@@ -15,50 +15,31 @@
 body {
     font: 14px/1.5 "Merriweather", serif;
 }
-
-$bg: #fff;
-$text: #2e2e2e;
-$blue: #2c2fe8;
-$darkblue: darken($blue, 10%);
-
-.link {
+  
+a {
+    color: #267CB9;
     position: relative;
-    transition: clip-path 275ms ease;
-    &:hover span::before, &:focus span::before {
-        clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-    }
-    span {
-      position: relative;
-      display: inline-block;
-      color: $blue;
-      &::before {
-            position: absolute;
-            content: attr(data-content);
-            color: $darkblue;
-            text-decoration: underline;
-            text-decoration-color: $darkblue;
-            clip-path: polygon(0 0, 0 0, 0% 100%, 0 100%);
-            transition: clip-path 275ms ease;
-        }
-    }
+}
+
+a:hover {
+    font-weight: normal;
 }
   
-span.dotted::before {
-    text-decoration-style: dotted;
+a::before{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 0;
+    height: 2px;
+    background-color: #267CB9;
+    transition: width 0.6s cubic-bezier(0.25, 1, 0.5, 1);
 }
-
-span.dashed::before {
-    text-decoration-style: dashed;
-}
-
-span.double::before {
-    text-decoration-style: double;
-}
-
-span.wavy::before {
-    text-decoration-style: wavy;
-}
-
-span.line-through::before {
-    text-decoration-line: line-through;
+  
+@media (hover: hover) and (pointer: fine) {
+    a:hover::before{
+        left: 0;
+        right: auto;
+        width: 100%;
+    }
 }
