@@ -15,3 +15,25 @@
 body {
     font: 14px/1.5 "Merriweather", serif;
 }
+
+a {
+    position: relative;
+    transition: clip-path 275ms ease;
+}
+a:hover span::before, a:focus span::before {
+    clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+}
+a span {
+    position: relative;
+    display: inline-block;
+    color: blue;
+}
+a span::before {
+    position: absolute;
+    content: attr(data-content);
+    color: blue;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    clip-path: polygon(0 0, 0 0, 0% 100%, 0 100%);
+    transition: clip-path 275ms ease;
+}
