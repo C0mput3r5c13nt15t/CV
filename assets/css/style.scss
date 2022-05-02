@@ -16,19 +16,19 @@ body {
     font: 14px/1.5 "Merriweather", serif;
 }
 
-a {
+.link {
     position: relative;
     transition: clip-path 275ms ease;
 }
-a:hover span::before, a:focus span::before {
+.link:hover span::before, .link:focus span::before {
     clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
 }
-a span {
+.link span {
     position: relative;
     display: inline-block;
     color: blue;
 }
-a span::before {
+.link span::before {
     position: absolute;
     content: attr(data-content);
     color: blue;

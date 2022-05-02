@@ -3,8 +3,8 @@
 ## Kontakt
 Winziger Straße 2  
 84181 Neufraunhofen  
-(+49) 1733 780289  
-[pauljustus279@gmail.com](mailto:pauljustus279@gmail.com)
+(+49) 1733 780289
+<a class="link" href="mailto:pauljustus279@gmail.com"><span data-content="pauljustus279@gmail.com">pauljustus279@gmail.com</span></a>
 
 ## Bildungsweg
 <dl>
