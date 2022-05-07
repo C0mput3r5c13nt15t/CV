@@ -8,7 +8,7 @@ Winziger Straße 2
 
 ## Bildungsweg
 <dl>
-<dt>Besuch der Schule Birklehof e.V.</dt>
+<dt>Besuch der Schule Birklehof e.V. im Rahmen des +MINT Förderprogramms</dt>
 <dd>September 2021 - HEUTE</dd>
 <dt>Besuch des staatlichen Gymnasiums Dorfen</dt>
 <dd>September 2021 - HEUTE</dd>
@@ -17,8 +17,7 @@ Winziger Straße 2
 </dl>
 
 ## +MINT Talentförderung
-Der Schulwechsel vom Gymnasium Dorfen an den Birklehof ist durch meine Aufnahme in das [+MINT](https://www.plus-mint.de/) Programm zur Talentförderung zu erklären. Ausgangspunkt dafür bildete der Wettbewerb Hack me. If you can! (siehe Wettbewerbe), bei dem ich 2021 den 2. Platz erreichte. Prof. Dr.-Ing. Dominik Merli, einer der Organisatoren hatte mich auf Grund meiner Leistungen auf das +MINT Programm hingewiesen und ermöglichte mir trotz verstrichener Anmeldefrist an der 3. Runde des Auswahlverfahrens teil zu nehmen, welches ich bestand und so an den Birklehof gelangte.
-
+[+MINT](https://www.plus-mint.de/) ist ein bundesweit tätiger Verein zur Talentförderung in den MINT-Fächern. 2021 konnte ich das Bewerbungsverfahren erfolgreich absolvieren und mich für die Aufnahme an einem der plus-MINT Internate qualifizieren. 
 
 ## Kenntnisse und Kompetenzen
 - Webentwicklung
